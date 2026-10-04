@@ -1,0 +1,8 @@
+.env
+.env.*
+*.sqlite3
+.call-count
+__pycache__/
+*.pyc
+*.json
+*.csv
